@@ -1,0 +1,10 @@
+Software Modeling
+How To Model Software 101
+Learn how to use UML to design systems
+3700
+3
+Intro To OS
+Basics of Operating Systems
+Learn about OSs
+3550
+3
